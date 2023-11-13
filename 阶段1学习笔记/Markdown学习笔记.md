@@ -90,7 +90,7 @@
 ​	
 
 ```react
-#include <stdio,h>
+#include <stdio.h>
 ```
 
 ​	~~甚至看到了用搜狗输入法自定义短语（```react）来一键插入代码块的~~

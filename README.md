@@ -1,8 +1,23 @@
-# Tasks
+# Geek考核任务
 **This repository is used for Geek's examinations.Use one Kunyear to creat.**
+
+## 笔记目录
+
+[GitHub入门学习笔记](https://github.com/chlorine22/Tasks/blob/main/阶段1学习笔记/GitHub入门学习笔记.md) [Markdown学习笔记](https://github.com/chlorine22/Tasks/blob/main/阶段1学习笔记/Markdown学习笔记.md) ——阶段一<br>
+
+[Hello.md](https://github.com/chlorine22/Tasks/blob/main/阶段2学习笔记/Hello.md) ——阶段二
+
+
+
+
+
+***PS：后面是一点学习时的小吐槽***
+
 ## markdown学习笔记
+
 目前只学了基础语法，扩展语法之后补上
 （笔记里也记录了一些typora的用法）
+
 ## GitHub入门学习笔记
 大概是把主要功能认全了<br>
 但是我win11系统有问题，它系统代理坏了，只能借助浏览器插件来配合梯子进行翻墙，这导致我**不能使用桌面端GitHub进行远程投送**，悲哀<br>
