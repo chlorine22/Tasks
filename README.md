@@ -5,7 +5,7 @@
 
 [GitHub入门学习笔记](https://github.com/chlorine22/Tasks/blob/main/阶段1学习笔记/GitHub入门学习笔记.md) [Markdown学习笔记](https://github.com/chlorine22/Tasks/blob/main/阶段1学习笔记/Markdown学习笔记.md) ——阶段一<br>
 
-[Hello.md](https://github.com/chlorine22/Tasks/blob/main/阶段2学习笔记/Hello.md) ——阶段二
+[Hello.md](https://github.com/chlorine22/Tasks/blob/main/阶段2学习笔记/Hello.md) [Github进阶学习笔记](https://github.com/chlorine22/Tasks/blob/main/阶段2学习笔记/Github进阶学习笔记.md)——阶段二<br>
 
 
 
@@ -23,3 +23,11 @@
 但是我win11系统有问题，它系统代理坏了，只能借助浏览器插件来配合梯子进行翻墙，这导致我**不能使用桌面端GitHub进行远程投送**，悲哀<br>
 但是git推送还能用，还不错<br>
 写完这些已经23点43分了，先休息了，明早继续<br>
+
+## Hello文档
+
+原来得先把git和GitHub账号绑定才能推送啊！怪不得老显示failed
+
+## GitHub进阶学习笔记
+
+除了fork和pull request 还有很多git笔记XD
