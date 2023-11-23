@@ -194,7 +194,7 @@ CSS盒模型本质上是一个盒子，封装周围的HTML元素，它包括：�
 
 盒模型允许我们在其它元素和周围元素边框之间的空间放置元素。
 
-![box-model](https://github.com/chlorine22/Tasks/阶段3学习笔记/图片素材/box-model.gif)
+![box-model](https://raw.githubusercontent.com/chlorine22/Tasks/main/阶段3学习笔记/图片素材/box-model.gif)
 
 不同部分的说明：
 
@@ -290,7 +290,7 @@ z-index属性指定了一个元素的堆叠顺序（哪个元素应该放在前�
 
 #### 2.9 CSS网页布局
 
-![place](https://github.com/chlorine22/Tasks/阶段3学习笔记/图片素材/place.jpg)
+![place](https://raw.githubusercontent.com/chlorine22/Tasks/main/阶段3学习笔记/图片素材/place.jpg)
 
 
 

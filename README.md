@@ -3,11 +3,11 @@
 
 ## 笔记目录
 
-[GitHub入门学习笔记](https://github.com/chlorine22/Tasks/blob/main/阶段1学习笔记/GitHub入门学习笔记.md) [Markdown学习笔记](https://github.com/chlorine22/Tasks/blob/main/阶段1学习笔记/Markdown学习笔记.md) ——阶段一<br>
+[阶段1学习笔记](https://github.com/chlorine22/Tasks/tree/main/阶段1学习笔记)<br>
 
-[Hello.md](https://github.com/chlorine22/Tasks/blob/main/阶段2学习笔记/Hello.md) [Github进阶学习笔记](https://github.com/chlorine22/Tasks/blob/main/阶段2学习笔记/Github进阶学习笔记.md)——阶段二<br>
+[阶段2学习笔记](https://github.com/chlorine22/Tasks/tree/main/阶段2学习笔记)<br>
 
-[HTML学习笔记（未完待续）](https://github.com/chlorine22/Tasks/blob/main/阶段3学习笔记（未完待续）/HTML学习笔记.md)——阶段三<br>
+[阶段3学习笔记](https://github.com/chlorine22/Tasks/tree/main/阶段3学习笔记)<br>
 
 
 
@@ -34,8 +34,18 @@
 
 ## HTML学习笔记
 
-还没学完，不过目前感觉各个语言都有点共通之处欸，真神奇<br>
+还没学透，不过目前感觉各个语言都有点共通之处欸，真神奇<br>
 
 git bash又遇到**`“unable to access”`**的报错了，这次换了个出错原因：`couldn't connect`<br>
 
 直接使用CSDN解决了，希望没有下次一定:sweat:
+
+## CSS学习笔记
+
+原来是用来修饰HTML的吗，没学之前我以为是什么高深莫测的语言:stuck_out_tongue_closed_eyes:
+
+## JavaScript学习笔记
+
+看着带java，以为很难，结果跟css差不多欸<br>
+
+虽然目前还没学到多少，甚至都不太会用，但是感觉还不错

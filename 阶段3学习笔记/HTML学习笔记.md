@@ -213,13 +213,13 @@ DOCTYPE,全称**`document type`(文档类型)**；**`<!DOCTYPE html>`**位于HTM
 
 也有用注释揭露黑暗资本家的猛士（雾）
 
-![经 典](https://github.com/chlorine22/Tasks/阶段3学习笔记/图片素材/经 典.png)
+![经 典](https://raw.githubusercontent.com/chlorine22/Tasks/main/阶段3学习笔记/图片素材/经 典.png)
 
 #### 特殊字符
 
 用于表示一些很难表述或不方便使用的符号，如下：
 
-![部分字符](https://github.com/chlorine22/Tasks/阶段3学习笔记/图片素材/部分字符.png)
+![部分字符](https://raw.githubusercontent.com/chlorine22/Tasks/main/阶段3学习笔记/图片素材/部分字符.png))
 
 常用的是**空格（&nbsp）、大于号（&gt）、小于号（&lt）**
 
