@@ -213,7 +213,7 @@ DOCTYPE,全称**`document type`(文档类型)**；**`<!DOCTYPE html>`**位于HTM
 
 也有用注释揭露黑暗资本家的猛士（雾）
 
-![经 典](https://raw.githubusercontent.com/chlorine22/Tasks/main/阶段3学习笔记/图片素材/经 典.png)
+![经典](https://raw.githubusercontent.com/chlorine22/Tasks/main/阶段3学习笔记/图片素材/经典.png)
 
 #### 特殊字符
 
