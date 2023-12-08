@@ -6,11 +6,11 @@
 
 真正的man都在用GitHub Desktop对仓库进行一个无比方便的可视化操作管理
 
-![image-20231208181012973](C:\Users\34370\AppData\Roaming\Typora\typora-user-images\image-20231208181012973.png)
+
 
 填完左下角commit后直接点击右上角进行一个远程的同步
 
-![image-20231208181211402](C:\Users\34370\AppData\Roaming\Typora\typora-user-images\image-20231208181211402.png)
+
 
 更可以鼠标点点就从远程仓库pull到本地
 

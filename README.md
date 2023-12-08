@@ -9,7 +9,7 @@
 
 [阶段3学习笔记](https://github.com/chlorine22/Tasks/tree/main/阶段3学习笔记)<br>
 
-
+[阶段4学习笔记](https://github.com/chlorine22/Tasks/tree/main/阶段4学习笔记)<br>
 
 ## 我的网页
 
@@ -17,7 +17,7 @@ https://chlorine22.github.io/
 
 ## Ruby's Adventure(demo)
 
-
+[Ruby-s-Adventure-demo](https://github.com/chlorine22/Ruby-s-Adventure-demo-)
 
 ***PS：后面是一点学习时的小吐槽***
 
