@@ -120,7 +120,9 @@ Unity中的UI必须使用画布（Canvas）组件来对其进行渲染，画布�
 
 更便利的是在操作角色的脚本上编写一个射线检测功能，用于判断当前面对的一定范围内的物体是否为npc，若是，则按下对应键执行对话。
 
-（）2
+![talk](https://raw.githubusercontent.com/chlorine22/Tasks/main/阶段4学习笔记/图片素材/talk.png)
+
+![dialog](https://raw.githubusercontent.com/chlorine22/Tasks/main/阶段4学习笔记/图片素材/dialog.png)
 
 ### 5.音乐与音效添加
 

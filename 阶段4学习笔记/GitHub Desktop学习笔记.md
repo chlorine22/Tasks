@@ -4,13 +4,11 @@
 
 还在使用传统的git bash一个个命令的敲来远程推送代码吗？
 
-真正的man都在用GitHub Desktop对仓库进行一个无比方便的可视化操作管理
-
-
+![gd1](https://raw.githubusercontent.com/chlorine22/Tasks/main/阶段4学习笔记/图片素材/gd1.png)
 
 填完左下角commit后直接点击右上角进行一个远程的同步
 
-
+![gd2](https://raw.githubusercontent.com/chlorine22/Tasks/main/阶段4学习笔记/图片素材/gd2.png)
 
 更可以鼠标点点就从远程仓库pull到本地
 

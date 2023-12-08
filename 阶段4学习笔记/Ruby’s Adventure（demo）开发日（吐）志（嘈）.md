@@ -26,13 +26,13 @@
 
 即使这样，我也依然能写出一大堆bug:
 
-
+![too many bugs](https://raw.githubusercontent.com/chlorine22/Tasks/main/阶段4学习笔记/图片素材/too many bugs.png)
 
 什么字符没打对啊，没引用库就用了函数啊，大小写问题啊，总之就是一大堆毛病。
 
 甚至还有改不了的bug：
 
-
+![ubug](https://raw.githubusercontent.com/chlorine22/Tasks/main/阶段4学习笔记/图片素材/ubug.png)
 
 （unity自己出bug了就离谱）
 

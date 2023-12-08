@@ -36,7 +36,7 @@ unity界面的熟悉
 
 在**安装**这一窗口选项下可进行unity版本的管理
 
-![uh1](D:\1\github\geek\Tasks\阶段4学习笔记\图片素材\uh1.png)
+![uh1](https://raw.githubusercontent.com/chlorine22/Tasks/main/阶段4学习笔记/图片素材/uh1.png)
 
 “安装编译器”，可以免费下载unity的最新版本及公开的测试版本
 
@@ -46,7 +46,7 @@ unity界面的熟悉
 
 在**项目**这一窗口选项下可进行游戏项目的管理
 
-![uh2](D:\1\github\geek\Tasks\阶段4学习笔记\图片素材\uh2.png)
+![uh2](https://raw.githubusercontent.com/chlorine22/Tasks/main/阶段4学习笔记/图片素材/uh2.png)
 
 “打开”，可以直接添加已经创建好的项目
 
@@ -58,7 +58,7 @@ unity界面的熟悉
 
 创建好项目后就进入到游戏的实际开发界面
 
-![uw](D:\1\github\geek\Tasks\阶段4学习笔记\图片素材\uw.png)
+![uw](https://raw.githubusercontent.com/chlorine22/Tasks/main/阶段4学习笔记/图片素材/uw.png)
 
 有很多功能性窗口，大致和vs这些编译器一样，只不过unity是图像可视化与代码结合编辑的
 
@@ -66,7 +66,7 @@ unity界面的熟悉
 
 跟教程不一样的是，2023版不能直接在编译器里打开素材商店了，只能网页开
 
-![uweb](D:\1\github\geek\Tasks\阶段4学习笔记\图片素材\uweb.png)
+![uweb](https://raw.githubusercontent.com/chlorine22/Tasks/main/阶段4学习笔记/图片素材/uweb.png)
 
 （说是为了编译器界面更流畅简洁，~~我感觉没啥用~~）
 
@@ -74,25 +74,25 @@ unity界面的熟悉
 
 首先，熟悉一下各窗口的功能
 
-* scene![scene](D:\1\github\geek\Tasks\阶段4学习笔记\图片素材\scene.png)
+* scene![scene](https://raw.githubusercontent.com/chlorine22/Tasks/main/阶段4学习笔记/图片素材/scene.png)
 
 编辑游戏主要展现给玩家的界面
 
 * project
 
-![project](D:\1\github\geek\Tasks\阶段4学习笔记\图片素材\project.png)
+![project](https://raw.githubusercontent.com/chlorine22/Tasks/main/阶段4学习笔记/图片素材/project.png)
 
 资源文件
 
 * inspector
 
-<img src="D:\1\github\geek\Tasks\阶段4学习笔记\图片素材\inspector.png" alt="inspector" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/chlorine22/Tasks/main/阶段4学习笔记/图片素材/inspector.png" alt="inspector" style="zoom:50%;" />
 
 对象编辑，可以修改各项参数和添加各种组件
 
 * hierarchy
 
-![hierarchy](D:\1\github\geek\Tasks\阶段4学习笔记\图片素材\hierarchy.png)
+![hierarchy](https://raw.githubusercontent.com/chlorine22/Tasks/main/阶段4学习笔记/图片素材/hierarchy.png)
 
 游戏项目使用的各种资源对象
 
@@ -127,7 +127,9 @@ unity界面的熟悉
 
 先监听玩家的键入，根据键入来进行相应移动
 
-（）2
+![spy](https://raw.githubusercontent.com/chlorine22/Tasks/main/阶段4学习笔记/图片素材/spy.png)
+
+![move](https://raw.githubusercontent.com/chlorine22/Tasks/main/阶段4学习笔记/图片素材/move.png)
 
 如果想要游戏物体以每秒多少的速度移动可以乘上`Time.deltaTime`
 
@@ -146,15 +148,13 @@ TileMap创建：Hirerachy>右键>2D Object>TileMap
 * 调色板(Palette)：保存瓦片，将它们绘制到网格上。
 * 笔刷(Brush)：用于将画好的东西绘制到画布上。使用Tilemap时，可以在多个笔刷中任意选择，绘制出线条、方块等各种形状。
 
-（）
+![mapres](https://raw.githubusercontent.com/chlorine22/Tasks/main/阶段4学习笔记/图片素材/mapres.png)
 
 存在一种图片资源叫**图集**，包含多种张贴图（多为角色动作）
 
 **切割图集**：选中一张精灵图片资源，将SpriteMode从single改为mutiple，可制作成图集，点击SpriteEditor可进行
 
 **切割**：切割有三种形式：自动，按像素切割，按行列切割。
-
-（）
 
 `Edit`决定瓦片的操作范围，按下是对调色板内编辑，未按下是对scene内场景编辑
 
