@@ -15,6 +15,10 @@
 
 https://chlorine22.github.io/
 
+## Ruby's Adventure(demo)
+
+
+
 ***PS：后面是一点学习时的小吐槽***
 
 ## markdown学习笔记
@@ -61,3 +65,9 @@ git bash又遇到**`“unable to access”`**的报错了，这次换了个出�
 ## Markdown原理&Typora自定义主题
 
 自制主题好难啊:sob:,目前没搞出来我想要的样子，以后慢慢搞吧。
+
+# ruby’s adventure开发
+
+我是写bug小能手！我爱锟斤拷，我要烫烫烫！<br>
+
+（无声尖啸）
